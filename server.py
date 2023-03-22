@@ -1,7 +1,7 @@
 import socket
 
 # Replace the forwarding URL with your own
-ngrok_url = "https://8cf4-2600-3c04-00-f03c-93ff-fe4d-14b6.ngrok.io"
+ngrok_url = "http://1234abcd.ngrok.io"
 
 # create a socket object
 serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
